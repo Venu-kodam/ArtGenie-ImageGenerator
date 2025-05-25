@@ -48,4 +48,4 @@ ArtGenie is a full-stack image generator application that allows users to create
 
 - **Razorpay:** For payment integration.
 
-#### Live url : https://art-genie-image-generator-frontend.vercel.app
+#### Live Demo : https://art-genie-image-generator-frontend.vercel.app
