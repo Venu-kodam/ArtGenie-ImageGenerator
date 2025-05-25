@@ -17,4 +17,5 @@ connectDB()
 app.get('/',(req,res)=>res.send('API working'))
 app.use('/api/user',userRouter)
 app.use('/api/image',imageRouter)
+
 app.listen(PORT,()=>console.log(`Server started on http://localhost:${PORT}`))
